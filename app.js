@@ -176,3 +176,60 @@
 // else{
 //     alert("Your are not Allow")
 // }
+
+//  var c = prompt("input color of road traffic signal")
+ 
+//  if (c === "red"){
+//      alert("Must Stop")
+// }
+ 
+
+// else{
+//      alert("Your are not Allow")
+//  }
+
+// var c = prompt("input color of road traffic signal")
+ 
+// if (c === "yellow"){
+//     alert("Ready to move")
+// }
+
+
+// else{
+//     alert("Your are not Allow")
+// }
+
+// var c = prompt("input color of road traffic signal")
+ 
+// if (c === "green"){
+//     alert("Move now")
+// }
+
+
+// else{
+//     alert("Your are not Allow")
+// }
+
+// var p = prompt("Check your Fuel")
+
+// if (p === litres > 0.25){
+//     alert("Please refill the fuel in your car")
+// }
+
+// else{
+//     alert("your fuel is ok")
+// }
+
+
+
+// function displayDate(){
+//     document.getElementById("showDate").innerHTML = Date();
+// }
+
+ // var getmonths= 
+//  [
+//      "january","February","March","April","May","June","July","Augest","September","October","November","December"
+//  ];
+//  var d=new Date();
+//  document.getElementById("txt").value=getmonths[d.getMonth()];
+ 
